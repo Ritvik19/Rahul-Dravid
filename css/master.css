@@ -1,0 +1,38 @@
+body, html {
+  height: 100%;
+  margin: 0;
+}
+*,h1,h2,h3,h4,h5,h6{
+  font-family: 'Cinzel', serif;
+}
+
+.bg {
+  background-image: url("../images/wp.jpg");
+  height: 100%;
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+nav{
+  padding-left: 2%;
+  padding-right: 2%;
+}
+@media only screen and (max-width: 768px) {
+  .text{
+    display: none;
+  }
+  .tex-t{
+    display: block;
+    text-align: justify;
+    padding: 2%;
+  }
+}
+@media only screen and (min-width: 768px){
+.text{
+  width: 70%;
+  padding: 2%;
+}
+.tex-t{
+  display: none;
+}
+}
