@@ -1,3 +1,11 @@
+:root{
+  --c1: #DBE5FF;
+  --c2: #678FFE;
+  --c3: #0247FE;
+  --c4: #012998;
+  --c5: #091534;
+}
+
 body, html {
   height: 100%;
   margin: 0;
@@ -5,7 +13,6 @@ body, html {
 *,h1,h2,h3,h4,h5,h6{
   font-family: 'Cinzel', serif;
 }
-
 .bg {
   background-image: url("../images/wp.jpg");
   height: 100%;
@@ -16,6 +23,7 @@ body, html {
 nav{
   padding-left: 2%;
   padding-right: 2%;
+  background-color: var(--c4);
 }
 @media only screen and (max-width: 768px) {
   .text{
@@ -28,11 +36,11 @@ nav{
   }
 }
 @media only screen and (min-width: 768px){
-.text{
-  width: 70%;
-  padding: 2%;
-}
-.tex-t{
-  display: none;
-}
+  .text{
+    width: 70%;
+    padding: 2%;
+  }
+  .tex-t{
+    display: none;
+  }
 }
