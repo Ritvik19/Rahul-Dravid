@@ -1,10 +1,33 @@
-,Match,Date,Versus,Ground,Inns,How Dismissed,Runs,B/F,S/R,Aggr,Avg,S/R.1,B/F.1,Out Count
-0,23,07-10-1998,Zimbabwe,Harare Sports Club,1st,c N C Johnson b M Mbangwa,118,300,39.33,118,118.0,37.29,300,1
-1,39,18-11-2000,Zimbabwe,Feroz Shah Kotla,1st,not out,200*,350,57.14,318,318.0,48.92,650,1
-2,40,25-11-2000,Zimbabwe,Vidarbha Cricket Association Ground,1st,c †A Flower b H H Streak,162,301,53.82,480,240.0,50.47,951,2
-3,44,07-06-2001,Zimbabwe,Queens Sports Club,1st,c †A Flower b A M Blignaut,44,67,65.67,524,174.67,51.47,1018,3
-4,45,15-06-2001,Zimbabwe,Harare Sports Club,1st,not out,68*,115,59.13,592,197.33,52.25,1133,3
-5,54,21-02-2002,Zimbabwe,Vidarbha Cricket Association Ground,1st,b H H Streak,65,179,36.31,657,164.25,50.08,1312,4
-6,55,28-02-2002,Zimbabwe,Feroz Shah Kotla,1st,run out,1,8,12.5,658,131.6,49.85,1320,5
-7,90,13-09-2005,Zimbabwe,Queens Sports Club,1st,c B R M Taylor b N B Mahwire,77,117,65.81,735,122.5,51.15,1437,6
-8,91,20-09-2005,Zimbabwe,Harare Sports Club,1st,b N B Mahwire,98,237,41.35,833,119.0,49.76,1674,7
+,Match,Date,Versus,Ground,How Dismissed,Runs,B/F,S/R,Aggr,Avg,S/R.1,B/F.1,Out Count
+0,7,01-09-1996,Zimbabwe,Sinhalese Sports Club Ground,did not bat,-,-,-,0,,89.29,0,0
+1,22,27-01-1997,Zimbabwe,Boland Park,run out,23,43,53.49,23,23.0,53.49,43,1
+2,25,07-02-1997,Zimbabwe,SuperSport Park,c †A Flower b J A Rennie,12,30,40,35,17.5,47.95,73,2
+3,26,09-02-1997,Zimbabwe,Willowmoore Park,b G J Whittall,17,27,62.96,52,17.33,52.0,100,3
+4,60,26-09-1998,Zimbabwe,Queens Sports Club,c A D R Campbell b G B Brent,64,98,65.31,116,29.0,58.59,198,4
+5,61,27-09-1998,Zimbabwe,Queens Sports Club,did not bat,-,-,-,116,29.0,58.59,198,4
+6,62,30-09-1998,Zimbabwe,Harare Sports Club,c H H Streak b A R Whittall,28,42,66.67,144,28.8,60.0,240,5
+7,65,11-11-1998,Zimbabwe,Sharjah Cricket Stadium,c N C Johnson b H K Olonga,3,13,23.08,147,24.5,58.1,253,6
+8,82,19-05-1999,Zimbabwe,Grace Road,c G W Flower b H H Streak,13,14,92.86,160,22.86,59.93,267,7
+9,93,04-09-1999,Zimbabwe,Kallang Ground,c N C Johnson b A M Blignaut,12,15,80,172,21.5,60.99,282,8
+10,102,01-10-1999,Zimbabwe,Gymkhana Club Ground,lbw b M W Goodwin,12,15,80,184,20.44,61.95,297,9
+11,134,22-10-2000,Zimbabwe,Sharjah Cricket Stadium,c G W Flower b D P Viljoen,85,121,70.25,269,26.9,64.35,418,10
+12,135,02-12-2000,Zimbabwe,Barabati Stadium,run out,9,16,56.25,278,25.27,64.06,434,11
+13,136,05-12-2000,Zimbabwe,Sardar Patel Stadium,run out,62,88,70.45,340,28.33,65.13,522,12
+14,137,08-12-2000,Zimbabwe,Barkatullah Khan Stadium,c G J Rennie b G W Flower,30,53,56.6,370,28.46,64.35,575,13
+15,138,11-12-2000,Zimbabwe,Green Park,did not bat,-,-,-,370,28.46,64.35,575,13
+16,139,14-12-2000,Zimbabwe,Madhavrao Scindia Cricket Ground,c H H Streak b B C Strang,6,16,37.5,376,26.86,63.62,591,14
+17,145,24-06-2001,Zimbabwe,Harare Sports Club,did not bat,-,-,-,376,26.86,63.62,591,14
+18,146,27-06-2001,Zimbabwe,Queens Sports Club,not out,72*,64,112.5,448,32.0,68.4,655,14
+19,164,07-03-2002,Zimbabwe,Nahar Singh Stadium,lbw b G W Flower,23,34,67.65,471,31.4,68.36,689,15
+20,165,10-03-2002,Zimbabwe,Punjab Cricket Association IS Bindra Stadium,not out,66*,59,111.86,537,35.8,71.79,748,15
+21,166,13-03-2002,Zimbabwe,Nehru Stadium (Kochi),c C B Wishart b M Mbangwa,6,11,54.55,543,33.94,71.54,759,16
+22,167,16-03-2002,Zimbabwe,Lal Bahadur Shastri Stadium,b G W Flower,32,56,57.14,575,33.82,70.55,815,17
+23,168,19-03-2002,Zimbabwe,Nehru Stadium (Guwahati),b D T Hondo,26,33,78.79,601,33.39,70.87,848,18
+24,178,14-09-2002,Zimbabwe,R Premadasa Stadium,run out,71,81,87.65,672,35.37,72.34,929,19
+25,199,19-02-2003,Zimbabwe,Harare Sports Club,not out,43*,55,78.18,715,37.63,72.66,984,19
+26,216,14-01-2004,Zimbabwe,Bellerive Oval,did not bat,-,-,-,715,37.63,72.66,984,19
+27,218,20-01-2004,Zimbabwe,Brisbane Cricket Ground,c H H Streak b S M Ervine,84,106,79.25,799,39.95,73.3,1090,20
+28,220,24-01-2004,Zimbabwe,Adelaide Oval,c A M Blignaut b R W Price,56,72,77.78,855,40.71,73.58,1162,21
+29,222,03-02-2004,Zimbabwe,WACA Ground,b A M Blignaut,10,24,41.67,865,39.32,72.93,1186,22
+30,259,29-08-2005,Zimbabwe,Harare Sports Club,b P Utseya,14,30,46.67,879,38.22,72.29,1216,23
+31,261,04-09-2005,Zimbabwe,Harare Sports Club,b N B Mahwire,6,11,54.55,885,36.88,72.13,1227,24

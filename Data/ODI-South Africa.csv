@@ -1,22 +1,37 @@
-,Match,Date,Versus,Ground,Inns,How Dismissed,Runs,B/F,S/R,Aggr,Avg,S/R.1,B/F.1,Out Count
-0,4,20-11-1996,South Africa,Sardar Patel Stadium,1st,lbw b P L Symcox,24,98,24.49,24,24.0,41.9,98,1
-1,5,27-11-1996,South Africa,Eden Gardens,1st,c A C Hudson b B M McMillan,31,48,64.58,55,27.5,37.67,146,2
-2,6,08-12-1996,South Africa,Green Park,1st,lbw b P R Adams,7,55,12.73,62,20.67,30.85,201,3
-3,7,26-12-1996,South Africa,Kingsmead,1st,lbw b B M McMillan,7,23,30.43,69,17.25,30.8,224,4
-4,8,02-01-1997,South Africa,Newlands,1st,b L Klusener,2,41,4.88,71,14.2,26.79,265,5
-5,9,16-01-1997,South Africa,Wanderers Stadium,1st,c S M Pollock b W J Cronje,148,362,40.88,219,36.5,34.93,627,6
-6,36,24-02-2000,South Africa,Wankhede Stadium,1st,b A A Donald,22,79,27.85,241,34.43,34.14,706,7
-7,37,02-03-2000,South Africa,M Chinnaswamy Stadium,1st,c †M V Boucher b W J Cronje,17,75,22.67,258,32.25,33.03,781,8
-8,49,03-11-2001,South Africa,Mangaung Oval,1st,c J H Kallis b S M Pollock,2,10,20,260,28.89,32.87,791,9
-9,50,16-11-2001,South Africa,St George's Park,1st,b S M Pollock,2,11,18.18,262,26.2,32.67,802,10
-10,83,20-11-2004,South Africa,Green Park,1st,c †T L Tsolekile b M Ntini,54,179,30.17,316,28.73,32.21,981,11
-11,84,28-11-2004,South Africa,Eden Gardens,1st,b A J Hall,80,247,32.39,396,33.0,32.25,1228,12
-12,105,15-12-2006,South Africa,Wanderers Stadium,1st,c G C Smith b J H Kallis,32,83,38.55,428,32.92,32.65,1311,13
-13,106,26-12-2006,South Africa,Kingsmead,1st,lbw b A Nel,11,23,47.83,439,31.36,32.91,1334,14
-14,107,02-01-2007,South Africa,Newlands,1st,c †M V Boucher b S M Pollock,29,58,50,468,31.2,33.62,1392,15
-15,120,26-03-2008,South Africa,MA Chidambaram Stadium,1st,c J H Kallis b M Ntini,111,291,38.14,579,36.19,34.4,1683,16
-16,121,03-04-2008,South Africa,Sardar Patel Stadium,1st,b D W Steyn,3,26,11.54,582,34.24,34.06,1709,17
-17,122,11-04-2008,South Africa,Green Park,1st,c A B de Villiers b M Morkel,29,106,27.36,611,33.94,33.66,1815,18
-18,148,16-12-2010,South Africa,SuperSport Park,1st,lbw b M Morkel,14,42,33.33,625,32.89,33.66,1857,19
-19,149,26-12-2010,South Africa,Kingsmead,1st,c †M V Boucher b D W Steyn,25,68,36.76,650,32.5,33.77,1925,20
-20,150,02-01-2011,South Africa,Newlands,1st,run out,5,16,31.25,655,31.19,33.75,1941,21
+,Match,Date,Versus,Ground,How Dismissed,Runs,B/F,S/R,Aggr,Avg,S/R.1,B/F.1,Out Count
+0,4,14-04-1996,South Africa,Sharjah Cricket Stadium,c J N Rhodes b S M Pollock,11,21,52.38,11,11.0,56.76,21,1
+1,14,17-10-1996,South Africa,Lal Bahadur Shastri Stadium,c J N Rhodes b D N Crookes,62,87,71.26,73,36.5,67.59,108,2
+2,16,23-10-1996,South Africa,Sawai Mansingh Stadium,c †D J Richardson b B M McMillan,0,1,0,73,24.33,66.97,109,3
+3,17,29-10-1996,South Africa,Madhavrao Scindia Cricket Ground,run out,21,40,52.5,94,23.5,63.09,149,4
+4,19,06-11-1996,South Africa,Wankhede Stadium,b P S De Villiers,31,41,75.61,125,25.0,65.79,190,5
+5,20,14-12-1996,South Africa,Wankhede Stadium,run out,16,32,50,141,23.5,63.51,222,6
+6,21,23-01-1997,South Africa,Mangaung Oval,b P L Symcox,8,22,36.36,149,21.29,61.07,244,7
+7,23,02-02-1997,South Africa,St George's Park,c W J Cronje b A A Donald,50,104,48.08,199,24.88,57.18,348,8
+8,24,04-02-1997,South Africa,Buffalo Park,run out,53,71,74.65,252,28.0,60.14,419,9
+9,27,12-02-1997,South Africa,Kingsmead,c G Kirsten b W J Cronje,33,70,47.14,285,28.5,58.28,489,10
+10,28,13-02-1997,South Africa,Kingsmead,c G Kirsten b L Klusener,84,94,89.36,369,33.55,63.29,583,11
+11,81,15-05-1999,South Africa,County Ground (Hove),b L Klusener,54,75,72,423,35.25,64.29,658,12
+12,100,26-09-1999,South Africa,Gymkhana Club Ground,not out,9*,19,47.37,432,36.0,63.81,677,12
+13,103,03-10-1999,South Africa,Gymkhana Club Ground,c J N Rhodes b D N Crookes,30,65,46.15,462,35.54,62.26,742,13
+14,117,09-03-2000,South Africa,Nehru Stadium (Kochi),c H S Williams b W J Cronje,17,21,80.95,479,34.21,62.78,763,14
+15,118,12-03-2000,South Africa,Keenan Stadium,c H H Gibbs b N Boje,36,59,61.02,515,34.33,62.65,822,15
+16,119,15-03-2000,South Africa,Nahar Singh Stadium,run out,73,109,66.97,588,36.75,63.16,931,16
+17,120,17-03-2000,South Africa,Reliance Stadium,c W J Cronje b N Boje,3,10,30,591,34.76,62.81,941,17
+18,121,19-03-2000,South Africa,Vidarbha Cricket Association Ground,run out,79,70,112.86,670,37.22,66.27,1011,18
+19,122,22-03-2000,South Africa,Sharjah Cricket Stadium,b J H Kallis,8,25,32,678,35.68,65.44,1036,19
+20,125,27-03-2000,South Africa,Sharjah Cricket Stadium,c N D McKenzie b L Klusener,26,60,43.33,704,35.2,64.23,1096,20
+21,131,13-10-2000,South Africa,Gymkhana Club Ground,c †M V Boucher b L Klusener,58,71,81.69,762,36.29,65.3,1167,21
+22,157,05-10-2001,South Africa,Wanderers Stadium,c N D McKenzie b A Nel,1,7,14.29,763,34.68,64.99,1174,22
+23,158,10-10-2001,South Africa,SuperSport Park,c L Klusener b S M Pollock,54,79,68.35,817,35.52,65.2,1253,23
+24,161,19-10-2001,South Africa,Buffalo Park,not out,71*,87,81.61,888,38.61,66.27,1340,23
+25,163,26-10-2001,South Africa,Kingsmead,c S M Pollock b J M Kemp,77,102,75.49,965,40.21,66.92,1442,24
+26,180,25-09-2002,South Africa,R Premadasa Stadium,lbw b L Klusener,49,67,73.13,1014,40.56,67.2,1509,25
+27,272,16-11-2005,South Africa,Rajiv Gandhi International Stadium,b A Nel,8,24,33.33,1022,39.31,66.67,1533,26
+28,273,19-11-2005,South Africa,M Chinnaswamy Stadium,c & b J L Ontong,10,17,58.82,1032,38.22,66.58,1550,27
+29,274,25-11-2005,South Africa,Eden Gardens,b C K Langeveldt,6,31,19.35,1038,37.07,65.65,1581,28
+30,275,28-11-2005,South Africa,Wankhede Stadium,not out,78*,106,73.58,1116,39.86,66.15,1687,28
+31,301,22-11-2006,South Africa,Kingsmead,b C K Langeveldt,18,25,72,1134,39.1,66.24,1712,29
+32,302,26-11-2006,South Africa,Newlands,c A J Hall b S M Pollock,63,103,61.17,1197,39.9,65.95,1815,30
+33,317,26-06-2007,South Africa,Civil Service Cricket Club,b A Nel,74,93,79.57,1271,41.0,66.61,1908,31
+34,318,29-06-2007,South Africa,Civil Service Cricket Club,c & b C K Langeveldt,2,10,20,1273,39.78,66.37,1918,32
+35,319,01-07-2007,South Africa,Civil Service Cricket Club,run out,36,49,73.47,1309,39.67,66.55,1967,33
