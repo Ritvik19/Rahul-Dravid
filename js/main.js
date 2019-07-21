@@ -23,7 +23,7 @@ $(document).ready(function(){
     if (this.readyState == 4 && this.status == 200) {
       var data = JSON.parse(this.responseText)
       console.log(JSON.parse(this.responseText));
-      document.getElementById(elid).innerHTML = '<div class="row"><div class="col m12"><div class="card">'+
+      document.getElementById(elid).innerHTML = '<div class="row"><div class="col m12 s12"><div class="card">'+
       '<div class="card-content"><table class="striped"><tbody>'+
       '<tr><td class="padd">'+'Matches'+'</td><td class="padd">'+data['Matches'][0]+'</td></tr>'+
       '<tr><td class="padd">'+'Innings'+'</td><td class="padd">'+data['Innings'][0]+'</td></tr>'+
