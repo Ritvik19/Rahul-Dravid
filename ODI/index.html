@@ -25,8 +25,30 @@
       <li class="active"><a href="/ODI">ODI</a></li>
       <li><a href="/Test">Test</a></li>
     </ul>
+    <div class="tab">
+      <button class="tablinks" onclick="openTab(event, 'Highlights')">Highlights</button>
+      <button class="tablinks" onclick="openTab(event, 'Year-Wise')">Year Wise</button>
+      <button class="tablinks" onclick="openTab(event, 'Opposition-Wise')">Opposition Wise</button>
+      <button class="tablinks" onclick="openTab(event, 'Favourite-Venues')">Favourite Venues</button>
+    </div>
+
+    <div id="Highlights" class="tabcontent">
+
+    </div>
+
+    <div id="Year-Wise" class="tabcontent">
+      <img src="../data/ODI-YearWise.png" alt="">
+    </div>
+
+    <div id="Opposition-Wise" class="tabcontent">
+      <img src="../data/ODI-CountryWise.png" alt="">
+    </div>
+
+    <div id="Favourite-Venues" class="tabcontent">
+      <img src="../data/ODI-Grounds.png" alt="">
+    </div>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
-    <script src="./js/main.js" charset="utf-8"></script>
+    <script src="../js/main.js" charset="utf-8"></script>
   </body>
 </html>
