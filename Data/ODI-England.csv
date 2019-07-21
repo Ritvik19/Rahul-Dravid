@@ -1,31 +1,22 @@
-,Match,Date,Versus,Ground,How Dismissed,Runs,B/F,S/R,Aggr,Avg,S/R.1,B/F.1,Out Count
-0,5,26-05-1996,England,Old Trafford,not out,22*,15,146.67,22,inf,82.69,15,0
-1,77,09-04-1999,England,Sharjah Cricket Stadium,c & b G A Hick,16,38,42.11,38,38.0,71.7,53,1
-2,78,11-04-1999,England,Sharjah Cricket Stadium,run out,63,92,68.48,101,50.5,69.66,145,2
-3,85,29-05-1999,England,Edgbaston,c M A Ealham b A Flintoff,53,82,64.63,154,51.33,67.84,227,3
-4,172,29-06-2002,England,Lord's,not out,73*,86,84.88,227,75.67,72.52,313,3
-5,174,04-07-2002,England,Riverside Ground,c A Flintoff b P D Collingwood,82,117,70.09,309,77.25,71.86,430,4
-6,177,13-07-2002,England,Lord's,c N V Knight b R C Irani,5,12,41.67,314,62.8,71.04,442,5
-7,179,22-09-2002,England,R Premadasa Stadium,did not bat,-,-,-,314,62.8,71.04,442,5
-8,201,26-02-2003,England,Kingsmead,c P D Collingwood b A R Caddick,62,72,86.11,376,62.67,73.15,514,6
-9,238,01-09-2004,England,Trent Bridge,c D Gough b A G Wharf,13,16,81.25,389,55.57,73.4,530,7
-10,239,03-09-2004,England,Kennington Oval,c †G O Jones b A G Wharf,1,8,12.5,390,48.75,72.49,538,8
-11,240,05-09-2004,England,Lord's,c P D Collingwood b S J Harmison,52,92,56.52,442,49.11,70.16,630,9
-12,281,28-03-2006,England,Feroz Shah Kotla,b L E Plunkett,34,50,68,476,47.6,70.0,680,10
-13,282,31-03-2006,England,Nahar Singh Stadium,run out,5,23,21.74,481,43.73,68.42,703,11
-14,283,03-04-2006,England,Nehru Stadium (Margao),b P D Collingwood,46,59,77.97,527,43.92,69.16,762,12
-15,284,06-04-2006,England,Nehru Stadium (Kochi),c M J Hoggard b A Flintoff,65,72,90.28,592,45.54,70.98,834,13
-16,285,15-04-2006,England,Holkar Cricket Stadium,lbw b S I Mahmood,69,79,87.34,661,47.21,72.4,913,14
-17,298,15-10-2006,England,Sawai Mansingh Stadium,c A J Strauss b J M Anderson,4,3,133.33,665,44.33,72.6,916,15
-18,321,21-08-2007,England,The Rose Bowl,c †M J Prior b A D Mascarenhas,46,72,63.89,711,44.44,71.96,988,16
-19,322,24-08-2007,England,County Ground (Bristol),not out,92*,63,146.03,803,50.19,76.4,1051,16
-20,323,27-08-2007,England,Edgbaston,b C T Tremlett,56,61,91.8,859,50.53,77.25,1112,17
-21,324,30-08-2007,England,Old Trafford,c †M J Prior b A Flintoff,1,8,12.5,860,47.78,76.79,1120,18
-22,325,02-09-2007,England,Headingley,run out,24,17,141.18,884,46.53,77.75,1137,19
-23,326,05-09-2007,England,Kennington Oval,c P D Collingwood b O A Shah,4,5,80,888,44.4,77.76,1142,20
-24,327,08-09-2007,England,Lord's,c †M J Prior b A Flintoff,0,3,0,888,42.29,77.55,1145,21
-25,340,03-09-2011,England,Riverside Ground,c †C Kieswetter b S C J Broad,2,6,33.33,890,40.45,77.32,1151,22
-26,341,06-09-2011,England,The Rose Bowl,c J M Anderson b G P Swann,32,31,103.23,922,40.09,78.0,1182,23
-27,342,09-09-2011,England,Kennington Oval,run out,2,11,18.18,924,38.5,77.45,1193,24
-28,343,11-09-2011,England,Lord's,c & b G P Swann,19,33,57.58,943,37.72,76.92,1226,25
-29,344,16-09-2011,England,Sophia Gardens,b G P Swann,69,79,87.34,1012,38.92,77.55,1305,26
+,Match,Date,Versus,Ground,Inns,How Dismissed,Runs,B/F,S/R,Aggr,Avg,S/R.1,B/F.1,Out Count
+0,1,20-06-1996,England,Lord's,1st,c †R C Russell b C C Lewis,95,267,35.58,95,95.0,35.58,267,1
+1,2,04-07-1996,England,Trent Bridge,1st,c †R C Russell b M A Ealham,84,149,56.38,179,89.5,43.03,416,2
+2,51,03-12-2001,England,Punjab Cricket Association IS Bindra Stadium,1st,lbw b J Ormond,86,206,41.75,265,88.33,42.6,622,3
+3,52,11-12-2001,England,Sardar Patel Stadium,1st,c †J S Foster b M J Hoggard,7,60,11.67,272,68.0,39.88,682,4
+4,53,19-12-2001,England,M Chinnaswamy Stadium,1st,c †J S Foster b M J Hoggard,3,61,4.92,275,55.0,37.01,743,5
+5,61,25-07-2002,England,Lord's,1st,c M P Vaughan b M J Hoggard,46,162,28.4,321,53.5,35.47,905,6
+6,62,08-08-2002,England,Trent Bridge,1st,c R W T Key b M J Hoggard,13,43,30.23,334,47.71,35.23,948,7
+7,63,22-08-2002,England,Headingley,1st,st A J Stewart b A F Giles,148,307,48.21,482,60.25,38.41,1255,8
+8,64,05-09-2002,England,Kennington Oval,1st,run out,217,468,46.37,699,77.67,40.57,1723,9
+9,98,01-03-2006,England,Vidarbha Cricket Association Ground,1st,lbw b M J Hoggard,40,122,32.79,739,73.9,40.05,1845,10
+10,99,09-03-2006,England,Punjab Cricket Association IS Bindra Stadium,1st,b A Flintoff,95,208,45.67,834,75.82,40.62,2053,11
+11,100,18-03-2006,England,Wankhede Stadium,1st,c †G O Jones b J M Anderson,52,155,33.55,886,73.83,40.13,2208,12
+12,110,19-07-2007,England,Lord's,1st,c †M J Prior b J M Anderson,2,12,16.67,888,68.31,40.0,2220,13
+13,111,27-07-2007,England,Trent Bridge,1st,c I R Bell b M S Panesar,37,94,39.36,925,66.07,39.97,2314,14
+14,112,09-08-2007,England,Kennington Oval,1st,b J M Anderson,55,101,54.46,980,65.33,40.58,2415,15
+15,130,11-12-2008,England,MA Chidambaram Stadium,1st,lbw b G P Swann,3,24,12.5,983,61.44,40.3,2439,16
+16,131,19-12-2008,England,Punjab Cricket Association IS Bindra Stadium,1st,c M S Panesar b G P Swann,136,328,41.46,1119,65.82,40.44,2767,17
+17,154,21-07-2011,England,Lord's,1st,not out,103*,220,46.82,1222,71.88,40.91,2987,17
+18,155,29-07-2011,England,Trent Bridge,1st,c A N Cook b T T Bresnan,117,235,49.79,1339,74.39,41.56,3222,18
+19,156,10-08-2011,England,Edgbaston,1st,b T T Bresnan,22,68,32.35,1361,71.63,41.37,3290,19
+20,157,18-08-2011,England,Kennington Oval,1st,not out,146*,266,54.89,1507,79.32,42.38,3556,19

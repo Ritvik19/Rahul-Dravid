@@ -1,32 +1,16 @@
-,Match,Date,Versus,Ground,How Dismissed,Runs,B/F,S/R,Aggr,Avg,S/R.1,B/F.1,Out Count
-0,33,14-05-1997,New Zealand,M Chinnaswamy Stadium,not out,21*,31,67.74,21,inf,64.77,31,0
-1,66,09-01-1999,New Zealand,Owen Delany Park,not out,123*,123,100,144,inf,93.51,154,0
-2,67,12-01-1999,New Zealand,McLean Park,c †A C Parore b D L Vettori,38,65,58.46,182,182.0,83.11,219,1
-3,68,14-01-1999,New Zealand,Basin Reserve,c R G Twose b G R Larsen,68,71,95.77,250,125.0,86.21,290,2
-4,69,16-01-1999,New Zealand,Eden Park,b C L Cairns,51,71,71.83,301,100.33,83.38,361,3
-5,70,19-01-1999,New Zealand,AMI Stadium,c C Z Harris b D L Vettori,29,35,82.86,330,82.5,83.33,396,4
-6,88,12-06-1999,New Zealand,Trent Bridge,c S P Fleming b C L Cairns,29,35,82.86,359,71.8,83.29,431,5
-7,104,05-11-1999,New Zealand,Madhavrao Scindia Cricket Ground,lbw b N J Astle,39,43,90.7,398,66.33,83.97,474,6
-8,105,08-11-1999,New Zealand,Lal Bahadur Shastri Stadium,c S P Fleming b C L Cairns,153,153,100,551,78.71,87.88,627,7
-9,106,11-11-1999,New Zealand,Captain Roop Singh Stadium,c sub b A R Tait,14,31,45.16,565,70.62,85.87,658,8
-10,107,14-11-1999,New Zealand,Nehru Stadium (Guwahati),c †A C Parore b C L Cairns,5,7,71.43,570,63.33,85.71,665,9
-11,108,17-11-1999,New Zealand,Feroz Shah Kotla,not out,29*,53,54.72,599,66.56,83.43,718,9
-12,132,15-10-2000,New Zealand,Gymkhana Club Ground,run out,22,35,62.86,621,62.1,82.47,753,10
-13,150,20-07-2001,New Zealand,R Premadasa Stadium,c M S Sinclair b D J Nash,15,36,41.67,636,57.82,80.61,789,11
-14,152,26-07-2001,New Zealand,R Premadasa Stadium,b J D P Oram,27,57,47.37,663,55.25,78.37,846,12
-15,155,02-08-2001,New Zealand,Sinhalese Sports Club Ground,not out,57*,56,101.79,720,60.0,79.82,902,12
-16,190,26-12-2002,New Zealand,Eden Park,c D L Vettori b D R Tuffey,20,51,39.22,740,56.92,77.65,953,13
-17,191,29-12-2002,New Zealand,McLean Park,run out,18,27,66.67,758,54.14,77.35,980,14
-18,192,01-01-2003,New Zealand,AMI Stadium,c D L Vettori b P A Hitchcock,20,59,33.9,778,51.87,74.88,1039,15
-19,193,04-01-2003,New Zealand,Queenstown Events Centre,b A R Adams,18,52,34.62,796,49.75,72.96,1091,16
-20,194,08-01-2003,New Zealand,Westpac Stadium,c †B B McCullum b S B Styris,7,41,17.07,803,47.24,70.94,1132,17
-21,195,11-01-2003,New Zealand,Eden Park,lbw b S B Styris,21,50,42,824,45.78,69.71,1182,18
-22,196,14-01-2003,New Zealand,Seddon Park,c S B Styris b K D Mills,12,26,46.15,836,44.0,69.21,1208,19
-23,205,14-03-2003,New Zealand,SuperSport Park,not out,53*,89,59.55,889,46.79,68.54,1297,19
-24,208,23-10-2003,New Zealand,MA Chidambaram Stadium,c S B Styris b D L Vettori,4,6,66.67,893,44.65,68.53,1303,20
-25,211,06-11-2003,New Zealand,Barabati Stadium,c S B Styris b D L Vettori,31,41,75.61,924,44.0,68.75,1344,21
-26,213,15-11-2003,New Zealand,Lal Bahadur Shastri Stadium,not out,50*,22,227.27,974,46.38,71.3,1366,21
-27,258,26-08-2005,New Zealand,Queens Sports Club,b S E Bond,5,9,55.56,979,44.5,71.2,1375,22
-28,260,02-09-2005,New Zealand,Harare Sports Club,b S B Styris,39,61,63.93,1018,44.26,70.89,1436,23
-29,262,06-09-2005,New Zealand,Harare Sports Club,lbw b D L Vettori,0,2,0,1018,42.42,70.79,1438,24
-30,334,11-09-2009,New Zealand,R Premadasa Stadium,lbw b J D P Oram,14,45,31.11,1032,41.28,69.59,1483,25
+,Match,Date,Versus,Ground,Inns,How Dismissed,Runs,B/F,S/R,Aggr,Avg,S/R.1,B/F.1,Out Count
+0,24,26-12-1998,New Zealand,Basin Reserve,1st,lbw b S B Doull,0,6,0,0,0.0,37.27,6,1
+1,25,02-01-1999,New Zealand,Seddon Park,1st,c C D McMillan b C L Cairns,190,353,53.82,190,95.0,52.92,359,2
+2,30,10-10-1999,New Zealand,Punjab Cricket Association IS Bindra Stadium,1st,c N J Astle b C L Cairns,1,8,12.5,191,63.67,52.04,367,3
+3,31,22-10-1999,New Zealand,Green Park,1st,c †A C Parore b D L Vettori,48,148,32.43,239,59.75,46.41,515,4
+4,32,29-10-1999,New Zealand,Sardar Patel Stadium,1st,c †A C Parore b D L Vettori,33,64,51.56,272,54.4,46.98,579,5
+5,68,12-12-2002,New Zealand,Basin Reserve,1st,b S B Styris,76,173,43.93,348,58.0,46.28,752,6
+6,69,19-12-2002,New Zealand,Seddon Park,1st,c †R G Hart b D R Tuffey,9,56,16.07,357,51.0,44.18,808,7
+7,70,08-10-2003,New Zealand,Sardar Patel Stadium,1st,c †R G Hart b J D P Oram,222,387,57.36,579,72.38,48.45,1195,8
+8,71,16-10-2003,New Zealand,Punjab Cricket Association IS Bindra Stadium,1st,c †R G Hart b I G Butler,13,59,22.03,592,65.78,47.21,1254,9
+9,132,18-03-2009,New Zealand,Seddon Park,1st,b I E O'Brien,66,138,47.83,658,65.8,47.27,1392,10
+10,133,26-03-2009,New Zealand,McLean Park,1st,c †B B McCullum b J D Ryder,83,206,40.29,741,67.36,46.37,1598,11
+11,134,03-04-2009,New Zealand,Basin Reserve,1st,c J E C Franklin b C S Martin,35,114,30.7,776,64.67,45.33,1712,12
+12,145,04-11-2010,New Zealand,Sardar Patel Stadium,1st,b C S Martin,104,227,45.81,880,67.69,45.38,1939,13
+13,146,12-11-2010,New Zealand,Rajiv Gandhi International Stadium,1st,lbw b T G Southee,45,144,31.25,925,66.07,44.41,2083,14
+14,147,20-11-2010,New Zealand,Vidarbha Cricket Association Stadium,1st,c M J Guptill b K S Williamson,191,396,48.23,1116,74.4,45.02,2479,15

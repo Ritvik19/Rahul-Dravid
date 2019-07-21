@@ -75,9 +75,9 @@
     <script type="text/javascript">
       loadDoc('../data/ODI-Highlights.json', 'Highlights')
       for(i=1996; i<=2011; i++)
-        loadStats('ODI', i)
+        loadStats(i)
       function myFunction2(item, index) {
-        loadStats('ODI', item)
+        loadStats(item)
       }
       countries.forEach(myFunction2);
     </script>

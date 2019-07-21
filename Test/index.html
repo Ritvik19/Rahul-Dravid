@@ -27,8 +27,59 @@
       <li><a href="/ODI">ODI</a></li>
       <li class="active"><a href="/Test">Test</a></li>
     </ul>
+    <div class="tab">
+      <button class="tablinks" onclick="openTab(event, 'Highlights')" id="defaultOpen">Highlights</button>
+      <button class="tablinks" onclick="openTab(event, 'Year-Wise')">Year Wise</button>
+      <button class="tablinks" onclick="openTab(event, 'Opposition-Wise')">Opposition Wise</button>
+      <button class="tablinks" onclick="openTab(event, 'Favourite-Venues')">Favourite Venues</button>
+    </div>
+
+    <div id="Highlights" class="tabcontent">
+
+    </div>
+
+    <div id="Year-Wise" class="tabcontent">
+      <img src="../data/Test-YearWise.png" alt="">
+      <div class="row" id="row-Year-Wise"></div>
+    </div>
+
+    <div id="Opposition-Wise" class="tabcontent">
+      <img src="../data/Test-CountryWise.png" alt="">
+      <div class="row" id="row-Country-Wise"></div>
+    </div>
+
+    <div id="Favourite-Venues" class="tabcontent">
+      <img src="../data/Test-Grounds.png" alt="">
+    </div>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <script type="text/javascript">
+      for(i=1996;i<=2012;i++){
+        document.getElementById('row-Year-Wise').innerHTML += '<div class="col m3 s12">'+
+              '<div class="card" id="'+i+'">'+
+                '</div>'+
+            '</div>'
+      }
+
+      countries = ['Australia', 'West Indies', 'England', 'South Africa', 'Sri Lanka', 'New Zealand', 'Pakistan', 'Zimbabwe', 'Bangladesh']
+
+      function myFunction1(item, index) {
+        document.getElementById('row-Country-Wise').innerHTML += '<div class="col m4 s12">'+
+              '<div class="card" id="'+item+'">'+
+                '</div>'+
+            '</div>'
+      }
+      countries.forEach(myFunction1);
+    </script>
     <script src="../js/main.js" charset="utf-8"></script>
+    <script type="text/javascript">
+      loadDocTest('../data/Test-Highlights.json', 'Highlights')
+      for(i=1996; i<=2012; i++)
+        loadStatsTest(i)
+      function myFunction2(item, index) {
+        loadStatsTest(item)
+      }
+      countries.forEach(myFunction2);
+    </script>
   </body>
 </html>
