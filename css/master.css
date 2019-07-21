@@ -86,3 +86,18 @@ nav{
 .padd {
   padding: 10px 5px;
 }
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--c1);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--c3);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--c2); 
