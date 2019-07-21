@@ -1,7 +1,7 @@
 :root{
   --c1: #DBE5FF;
   --c2: #678FFE;
-  --c3: #0247FE;
+  --c3: #A3BCFF;
   --c4: #012998;
   --c5: #091534;
 }
@@ -79,4 +79,10 @@ nav{
 
 .tabcontent img{
   width: 100%;
+}
+ td{
+  padding: 5px 5px;
+}
+.padd {
+  padding: 10px 5px;
 }

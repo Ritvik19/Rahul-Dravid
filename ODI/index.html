@@ -26,7 +26,7 @@
       <li><a href="/Test">Test</a></li>
     </ul>
     <div class="tab">
-      <button class="tablinks" onclick="openTab(event, 'Highlights')">Highlights</button>
+      <button class="tablinks" onclick="openTab(event, 'Highlights')" id="defaultOpen">Highlights</button>
       <button class="tablinks" onclick="openTab(event, 'Year-Wise')">Year Wise</button>
       <button class="tablinks" onclick="openTab(event, 'Opposition-Wise')">Opposition Wise</button>
       <button class="tablinks" onclick="openTab(event, 'Favourite-Venues')">Favourite Venues</button>
@@ -38,10 +38,12 @@
 
     <div id="Year-Wise" class="tabcontent">
       <img src="../data/ODI-YearWise.png" alt="">
+      <div class="row" id="row-Year-Wise"></div>
     </div>
 
     <div id="Opposition-Wise" class="tabcontent">
       <img src="../data/ODI-CountryWise.png" alt="">
+      <div class="row" id="row-Country-Wise"></div>
     </div>
 
     <div id="Favourite-Venues" class="tabcontent">
@@ -49,6 +51,32 @@
     </div>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <script type="text/javascript">
+      for(i=1996;i<=2011;i++){
+        document.getElementById('row-Year-Wise').innerHTML += '<div class="col m3">'+
+              '<div class="card" id="'+i+'">'+
+                '</div>'+
+            '</div>'
+      }
+      countries = ['Sri Lanka', 'Pakistan', 'South Africa', 'England', 'Zimbabwe', 'Australia', 'West Indies', 'New Zealand', 'Bangladesh', 'Kenya', 'Netherlands', 'Namibia', 'United Arab Emirates', 'ICC World XI', 'Bermuda', 'Ireland', 'Scotland']
+
+      function myFunction1(item, index) {
+        document.getElementById('row-Country-Wise').innerHTML += '<div class="col m3">'+
+              '<div class="card" id="'+item+'">'+
+                '</div>'+
+            '</div>'
+      }
+      countries.forEach(myFunction1);
+    </script>
     <script src="../js/main.js" charset="utf-8"></script>
+    <script type="text/javascript">
+      loadDoc('../data/ODI-Highlights.json', 'Highlights')
+      for(i=1996; i<=2011; i++)
+        loadStats('ODI', i)
+      function myFunction2(item, index) {
+        loadStats('ODI', item)
+      }
+      countries.forEach(myFunction2);
+    </script>
   </body>
 </html>
