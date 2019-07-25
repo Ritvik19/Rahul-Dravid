@@ -100,4 +100,5 @@ nav{
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: var(--c2); 
+  background: var(--c2);
+}
