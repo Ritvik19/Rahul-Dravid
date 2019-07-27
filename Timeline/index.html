@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>The Wall</title>
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <link rel="stylesheet" href="../css/master.css">
+    <link rel="stylesheet" href="../css/timeline.css">
+    <link href="https://fonts.googleapis.com/css?family=Cinzel&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  </head>
+  <body>
+    <nav>
+      <div class="nav-wrapper">
+        <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+        <ul class="left hide-on-med-and-down">
+          <li><a href="/">Home</a></li>
+          <li><a href="/ODI">ODI</a></li>
+          <li><a href="/Test">Test</a></li>
+          <li class="active"><a href="/Timeline">Timeline</a></li>
+        </ul>
+      </div>
+    </nav>
+    <ul class="sidenav" id="mobile-demo">
+      <li><a href="/">Home</a></li>
+      <li><a href="/ODI">ODI</a></li>
+      <li><a href="/Test">Test</a></li>
+      <li class="active"><a href="/Timeline">Timeline</a></li>
+    </ul>
+    <div class="tab">
+      <button class="tablinks" onclick="openTab(event, 'Overall')" id="defaultOpen">Overall</button>
+      <button class="tablinks" onclick="openTab(event, 'Awards')">Awards</button>
+    </div>
+    <div id="Overall" class="tabcontent">
+
+    </div>
+
+    <div id="Awards" class="tabcontent">
+      <div class="page"><div class="page__demo"><div class="main-container page__container">
+        <div class="timeline" id="awards-timeline">
+        </div>
+      </div></div></div>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <script src="../js/main.js" charset="utf-8"></script>
+    <script type="text/javascript">
+       loadTimeline('awards-timeline', 'Awards');
+    </script>
+  </body>
+</html>

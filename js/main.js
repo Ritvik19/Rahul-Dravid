@@ -139,3 +139,35 @@ function loadStatsTest(elid){
   xhttp.open("GET", filepath, true);
   xhttp.send();
 }
+
+function loadTimeline(elid, filename){
+  filepath = '../data/'+filename+'.json'
+  var xhttp = new XMLHttpRequest();
+  xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+      var data = JSON.parse(this.responseText)
+      console.log(JSON.parse(this.responseText));
+      years =data['Year'];
+      milestones = data['Milestone'];
+      var i =0;
+      while(typeof years[i] !== "undefined"){
+        document.getElementById(elid).innerHTML +=  '<div class="timeline__box">'+
+        '<div class="timeline__date">'+
+        '<span class="timeline__year">'+years[i]+'</span>'+
+        '</div>'+
+        '<div class="timeline__post">'+
+        '<div class="timeline__content">'+
+        '<p>'+milestones[i]+'</p>'+
+        '</div>'+
+        '</div>'+
+        '</div>' ;
+        i++;
+      }
+    }
+    else {
+      console.log('Something Went Wrong');
+    }
+  };
+  xhttp.open("GET", filepath, true);
+  xhttp.send();
+}
