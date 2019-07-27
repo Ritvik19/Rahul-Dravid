@@ -35,7 +35,10 @@
       <button class="tablinks" onclick="openTab(event, 'Awards')">Awards</button>
     </div>
     <div id="Overall" class="tabcontent">
-
+      <div class="page"><div class="page__demo"><div class="main-container page__container">
+        <div class="timeline" id="overall-timeline">
+        </div>
+      </div></div></div>
     </div>
 
     <div id="Awards" class="tabcontent">
@@ -49,6 +52,7 @@
     <script src="../js/main.js" charset="utf-8"></script>
     <script type="text/javascript">
        loadTimeline('awards-timeline', 'Awards');
+       loadTimeline('overall-timeline', 'Overall');
     </script>
   </body>
 </html>
